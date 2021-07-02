@@ -21,3 +21,9 @@ Immediatly after finishing github we follow through OOP which is the programming
 > 1.0 - Did it together with other repositories.
 > 2.0 - Changed were dictated by my mentor, now as a single repository hope it clearer now! 
 > 3.0 - New readME, added files that were missing and changed the commits! 
+
+## Thank you to
+> -> My mentor for being so patient!
+> -> Anahi Salgado and Platzi.com for the courses.
+> -> My team for being supportive
+> -> You for your time! 
